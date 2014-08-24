@@ -55,7 +55,11 @@ when solving the problem posed in the project.**
    9. I Replace the activity codes with labels using the join command
       (merge doesn't work for me, the result always get sorted, even if I put sort = FALSE )
 	  
+	  
    10. Write the result in a file "tidyds.txt" using write.table with row.names = FALSE
        
 	  
+	  Note that my tidyds.txt file has Activity by ID to correspond with my CodeBook.md
+	  if you want to see the labels look at the tidyds variable generate in the 
+	  final lines of the script.
 	  
